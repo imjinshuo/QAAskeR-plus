@@ -1,0 +1,5 @@
+numpy==1.22.0
+SPARQLWrapper==2.0.0
+torch==1.10.1+cu113
+tqdm==4.62.3
+transformers==3.2.0

@@ -1,0 +1,101 @@
+Source Question,Ground Truth,Source Answer,New Question,New Answer,Inspectation Conclusion
+did the brewers make it to the world series?,yes,no,did the beer team take part in the world competition?,yes,FP
+do donna and eric end up getting married?,no,no,will donna and eric eventually get married?,yes,TP
+is salary included in cost of goods sold?,yes,no,are wages included in the cost of sales?,yes,TP
+is a woodchuck and a ground hog the same thing?,yes,yes,are marmots and marmots the same thing?,no,FP
+is cholesterol a partial breakdown product of lipids?,yes,no,is cholesterol a partial decomposition product of lipids?,yes,TP
+was the power of one a true story?,no,no,is a person's power true?,yes,FP
+is an associates degree considered a college degree?,yes,yes,is an assistant degree considered a university degree?,no,TP
+was till i collapse made for real steel?,no,yes,"until i collapse, is this real steel?",no,FP
+do runs have to be the same suit in gin rummy?,yes,yes,do you have to wear the same suit to run in gin and lami?,no,FP
+does the winner of the world cup host it next time?,no,yes,will the world cup champion be held next time?,no,FP
+can you breed a rabbit and a cat?,no,yes,can you keep a rabbit and a cat?,no,TP
+has the leaning tower of pisa always been leaning?,yes,no,has the leaning tower of pisa been leaning?,yes,FP
+are a meter and a yard the same length?,no,no,is a meter the same length as a yard?,yes,TP
+will a straight talk phone work with tracfone?,yes,yes,can an outspoken phone be used with tracfone?,no,TP
+are corn chips and tortilla chips the same?,no,yes,are cornflakes the same as tortillas?,no,TP
+can you sell a gun privately in florida?,yes,yes,can you sell guns privately in florida?,no,TP
+can you get a 3rd set of teeth?,no,yes,can you change the third set of teeth?,no,FP
+is a caffe latte the same as a latte?,yes,yes,is latte the same as latte?,no,FP
+is there more than 9 seasons of heartland?,yes,no,are there more than nine seasons in the heart?,yes,TP
+does the spanish alphabet have more letters than the english alphabet?,yes,yes,are there more spanish letters than english letters?,no,TP
+was thanos in the first guardians of the galaxy?,yes,yes,is tanos the first guardian of the galaxy?,no,FP
+is the vagus nerve part of the cns?,no,yes,is the vagus nerve part of the central nervous system?,no,TP
+is a plc the same as a limited company?,yes,yes,is plc the same as limited company?,no,TP
+is a bosun higher than a lead deckhand?,yes,yes,is the boatswain taller than the leading sailor?,no,TP
+is the website have i been pwned legit?,yes,yes,is my website legal?,no,FP
+is socialized medicine the same as universal health care?,yes,no,is socialized health care the same as universal health care?,yes,TP
+was big time rush a band before the show?,no,no,"before the show, is big time rush a band?",yes,TP
+is 1.5 ounces of liquor a standard drink?,yes,yes,is 1.5 ounces of wine a standard drink?,no,TP
+does a cow produce milk all the time?,no,no,do cows always produce milk?,yes,TP
+is there a season 5 of arrested development?,yes,yes,is there a fifth season of "development blocked"?,no,TP
+are pork loin ribs the same as baby back?,yes,yes,is the pork tenderloin the same as the baby's back?,no,TP
+can a red back spider bite kill you?,yes,yes,will a red backed spider bite you to death?,no,TP
+has any team ever swept the stanley cup final?,yes,yes,which team has swept the stanley cup final?,montreal canadiens,FP
+is how to train your dragon on now tv?,no,no,how to train your dragon on tv?,yes,FP
+does the batter have to move out of the way of a pitch?,yes,yes,does the batter have to leave the court?,no,FP
+is the supreme court the highest court in the land?,yes,yes,is the supreme court the supreme court of this country?,no,FP
+can you get on the internet with a playstation 2?,no,yes,can you surf the internet with playstation 2?,no,TP
+is state bank of india and bank of india same?,no,no,is the national bank of india the same as the bank of india?,yes,FP
+is wont you be my neighbor a documentary?,yes,yes,would you like to be my neighbor?,no,FP
+is antarctica the same as the south pole?,no,no,is antarctica the same as antarctica?,yes,FP
+did mariah carey wrote all i want for christmas is you?,yes,yes,maria kelly wrote the christmas present i want. is it you?,no,FP
+is there such thing as chronic lyme disease?,no,yes,do you have chronic lyme disease?,no,FP
+is there such a thing as number blindness?,yes,yes,is there digital blindness?,no,TP
+is lipid profile and lipid panel the same?,yes,yes,is lipid mass spectrum the same as lipid mass spectrum?,no,FP
+is kabaneri of the iron fortress on crunchyroll?,yes,no,is kabaneri at crunchyroll iron fortress there?,yes,TP
+is it illegal to smoke weed in ct?,yes,yes,is it illegal to smoke in ct?,no,FP
+is low isles part of the great barrier reef?,yes,yes,is the low island part of the great barrier reef?,no,TP
+is a master's degree higher than an honours degree?,no,no,is a master's degree higher than an honorary degree?,yes,TP
+is c# and visual c# the same?,no,yes,is c# the same as visual c#?,no,TP
+can you go out on a double in chicken foot?,yes,yes,can you go out in a double bed with chicken feet?,no,TP
+is 0 in the set of natural numbers?,yes,yes,is 0 a collection of natural numbers?,no,FP
+do i need a permit to open carry in missouri?,yes,yes,do i need a license to operate in missouri?,no,FP
+is there free to air tv in the usa?,yes,yes,is there free tv in america?,no,TP
+are stop and shop and giant owned by the same company?,yes,yes,is the parking lot from the same company as giant?,no,FP
+is the girl who leapt through time studio ghibli?,no,no,is the girl in the time travel studio ghibli?,yes,TP
+does us have a team in the world cup?,no,no,do we have a team for the world cup?,yes,FP
+are norway sweden and finland part of europe?,yes,yes,"are norway, sweden and finland part of europe?",no,TP
+is pva glue and elmer's glue the same thing?,yes,yes,is polyvinyl alcohol glue the same as elmer glue?,no,TP
+can a person be a citizen of no country?,yes,yes,can a person become a citizen of any country?,no,FP
+does a paladin have to be lawful good?,no,no,must a paladin be a legitimate good man?,yes,TP
+is a soccer stadium bigger than a football stadium?,yes,yes,is the football field bigger than the football field?,no,FP
+does the baseball all star game determine home field advantage?,no,yes,does the baseball all star game determine home court advantage?,no,TP
+are there actual bodies in the tomb of the unknown soldier?,yes,yes,is there a real body in the tomb of the unknown soldier?,no,TP
+can you die from keeping a fan on?,no,no,will you die with the fan on?,yes,FP
+has sweden ever been in a world cup final?,no,no,has sweden ever participated in the world cup finals?,yes,TP
+do the try guys no longer work for buzzfeed?,yes,yes,don't you try to work for someone else?,no,FP
+do you need a license for airsoft guns uk?,no,no,do you need a license for a british airsoft gun?,yes,TP
+is snow on the mountain the same as bishops weed?,yes,yes,is the snow on the mountain the same as the bishop's grass?,no,TP
+is the movie the train a true story?,yes,yes,is the movie "train" true?,no,TP
+has panama been in the world cup before?,no,no,has panama ever played in the world cup before?,yes,TP
+are beef short ribs the same as spare ribs?,no,yes,are beef ribs the same as ribs?,no,FP
+can u drive in canada with us license?,yes,no,can you drive in canada with an american driver's license?,yes,TP
+has the long exile of the archbishop ended?,yes,yes,is the archbishop's long exile over?,no,TP
+did a double deckers have raisins in it?,yes,yes,are there any raisins in the double decker?,no,TP
+is the good fight a sequel to the good wife?,yes,yes,is "aggressive" a sequel to "good wife"?,no,FP
+does the ride harry potter and the forbidden journey go upside down?,no,yes,is harry potter and the forbidden land upside down?,no,TP
+does cedar point still have the demon drop?,no,yes,are there any devil drops in cedar horn?,no,TP
+is the tommy gun a sub machine gun?,yes,yes,is tommy's gun a vice machine gun?,no,TP
+is a fire 7 the same as a kindle?,yes,yes,is the fire7 the same as a kindle?,no,TP
+is a yard the same as a meter?,no,no,is one yard equal to one meter?,yes,TP
+is the hunchback of notre dame real story?,no,no,is the hump of notre dame de paris true?,yes,TP
+is a groundhog and a woodchuck the same thing?,yes,yes,are marmots and marmots the same thing?,no,FP
+is cape lookout part of the outer banks?,yes,yes,is the cape lookout part of the bund?,no,TP
+is there a sequel to the journey to the mysterious island?,no,no,is there a sequel to the mysterious island?,yes,TP
+is a kilowatt hour a unit of power?,yes,yes,is kilowatt hour a unit of power?,no,TP
+is the load the pivot point of a lever?,no,no,is the load the pivot point of the lever?,yes,TP
+is there a line of duty series 4?,yes,yes,do you have task series 4?,no,FP
+is there a sequal to avengers infinity war?,yes,yes,is there a sequel to the avenger's infinite war?,no,TP
+have the houston texans ever won a playoff game?,yes,yes,did the houston texans win the playoffs?,no,TP
+do all xbox 360 games work on xbox one x?,no,yes,do all xbox 360 games run on xbox one x?,no,TP
+is the lady liberty stamp a forever stamp?,yes,no,is the statue of liberty a permanent stamp?,yes,TP
+does a soccer kick off have to go forward?,no,no,must the football kick-off go forward?,yes,TP
+can you have a unanimous vote with an abstention?,yes,yes,can you abstain altogether?,no,FP
+is the incredicoaster the same as california screamin?,yes,yes,is the delta calculator the same as the california scream?,no,TP
+are the ryman and grand ole opry the same thing?,yes,no,is ryman and grand ole opry the same thing?,yes,TP
+does oregon have a stand your ground law?,yes,no,does oregon have a position on your basic laws?,yes,FP
+are there any tin mines left in cornwall?,no,no,are there any tin mines in cornwall?,yes,TP
+is fear the walking dead based on the comics?,yes,yes,is fear of the walking dead based on a cartoon?,no,TP
+was mall cop filmed at mall of america?,no,no,did the mall police shoot it in an american mall?,yes,TP
+is there a season 2 of case histories?,yes,yes,do you have a medical record for the second season?,no,FP

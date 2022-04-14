@@ -1,0 +1,101 @@
+Source Question,Ground Truth,Source Answer,New Question,New Answer,Inspectation Conclusion
+is the tour de france different every year?,yes,yes,is the tour de france dissimilar every year?,no,TP
+is commercial law and corporate law the same?,no,yes,is commercial-grade law and corporal law the same?,no,TP
+was till i collapse made for real steel?,no,yes,was till i collapse made for actual steel?,no,TP
+is victoria plum the same as victorian plumbing?,yes,yes,is victoria plum the same as strait-laced plumbing?,no,FP
+is windows subsystem for linux a virtual machine?,no,no,is windows subsystem for linux a practical machine?,yes,FP
+is for a few dollars more a sequel?,yes,yes,is for a few dollars more_than a sequel?,no,TP
+does the right atrium receive blood from the lungs?,yes,no,does the good atrium receive blood from the lungs?,yes,TP
+were any civil war battles fought in florida?,yes,yes,were any civic war battles fought in florida?,no,TP
+is liquid petroleum gas the same as propane?,yes,yes,is liquified petroleum gas the same as propane?,no,TP
+are all members of the four seasons still alive?,no,no,are all members of the four seasons still animated?,yes,TP
+does the spanish alphabet have more letters than the english alphabet?,yes,yes,does the spanish alphabet have more_than letters than the english alphabet?,the latin script with one additional letter: ee '',TP
+is white spirits the same as mineral spirits?,yes,yes,is blanched spirits the same as mineral spirits?,no,TP
+is the jaws ride at universal orlando closed?,no,yes,is the jaws ride at worldwide orlando closed?,no,TP
+does all life require the same essential elements?,yes,yes,does all life require the same indispensable elements?,need for certain core chemical elements,TP
+did i am they get a new singer?,yes,yes,did i am they get a fresh singer?,no,TP
+is atmospheric pressure the same as air pressure?,yes,no,is atmospherical pressure the same as air pressure?,yes,TP
+will there be a 7th season of new girl?,yes,yes,will there be a seventh season of newfangled girl?,no,TP
+is a timber wolf the same as a gray wolf?,yes,yes,is a timber wolf the same as a grey wolf?,no,TP
+does a fried egg have a runny yolk?,yes,no,does a fried egg have a fluid yolk?,yes,TP
+is the county court business centre a real court?,no,no,is the county court business centre a actual court?,yes,TP
+is a cold water bath as good as an ice bath?,yes,yes,is a inhuman water bath as skillful as an ice bath?,no,FP
+is the red panda is related to the giant panda?,yes,yes,is the scarlet panda is related to the gargantuan panda?,no,TP
+is there such thing as chronic lyme disease?,no,yes,is there such thing as inveterate lyme disease?,no,TP
+is membranous nephropathy the same as membranous glomerulonephritis?,yes,yes,is membrane-forming nephropathy the same as membrane-forming glomerulonephritis?,no,TP
+is a nissan titan a full size truck?,yes,yes,is a nissan titan a wide-cut size truck?,no,TP
+is the colon the same as large intestine?,yes,yes,is the colon the same as big intestine?,no,TP
+is c# and visual c# the same?,no,yes,is c #and optical c #the same?,no,TP
+is there a spin off from breaking bad?,yes,yes,is there a spin off from breaking risky?,no,TP
+is the movie the guardian based on a true story?,no,yes,is the movie the guardian based on a lawful story?,no,FP
+is a master of fine arts a terminal degree?,yes,yes,is a master of hunky-dory arts a last degree?,no,TP
+do the miami dolphins have a real dolphin in their stadium?,no,no,do the miami dolphins have a existent dolphin in their stadium?,yes,TP
+are there actual bodies in the tomb of the unknown soldier?,yes,yes,are there real bodies in the tomb of the unnamed soldier?,no,TP
+has sweden ever been in a world cup final?,no,no,has sweden ever been in a world cup net?,yes,FP
+do dalmatians get more spots as they grow?,yes,yes,do dalmatians get more_than spots as they grow?,they continue to develop throughout life at a much slower rate,TP
+are there plants on the international space station?,yes,yes,are there plants on the external space station?,no,TP
+are hot tubs and jacuzzis the same thing?,yes,yes,are raging tubs and jacuzzis the same thing?,no,TP
+are beef short ribs the same as spare ribs?,no,yes,are beef brusk ribs the same as trim ribs?,no,TP
+is blue cross and blue shield the same company?,yes,yes,is blasphemous cross and low-spirited shield the same company?,no,FP
+is a private equity fund a financial institution?,no,yes,is a individual equity fund a fiscal institution?,no,TP
+are there red back spiders in the uk?,yes,yes,are there reddish back spiders in the uk?,no,TP
+is the ogallala aquifer the largest in the world?,no,yes,is the ogallala aquifer the enceinte in the world?,no,FP
+does emma swan stop being the dark one?,yes,no,does emma swan stop being the sinister one?,yes,TP
+is the hunchback of notre dame real story?,no,no,is the hunchback of notre dame tangible story?,yes,TP
+is france qualified for the world cup 2018?,yes,yes,is france dependant for the world cup 2018?,no,TP
+is a king snake immune to rattlesnake venom?,yes,yes,is a king snake resistant to rattlesnake venom?,no,TP
+are yellow jackets and wasps the same thing?,yes,yes,are yellowish jackets and wasps the same thing?,no,TP
+has a school shooting happened in a private school?,yes,yes,has a school shooting happened in a secret school?,no,TP
+was the tower of london a royal residence?,yes,yes,was the tower of london a regal residence?,no,TP
+is relative risk and risk ratio the same?,yes,yes,is comparative risk and risk ratio the same?,no,TP
+is extended release the same as sustained release?,no,yes,is extended release the same as free_burning release?,no,TP
+is astro turf the same as artificial grass?,yes,yes,is astro turf the same as contrived grass?,no,TP
+is season 7 of new girl the last season?,yes,yes,is season 7 of young girl the lowest season?,no,TP
+is there a relationship between our latitude position and high diversity of life form in the country?,yes,yes,is there a relationship between our latitude position and eminent diversity of life form in the country?,"generally, there is an increase in biodiversity from the poles to the tropics.",TP
+are the ryman and grand ole opry the same thing?,yes,no,are the ryman and idealistic ole opry the same thing?,yes,TP
+is season five the last season of the originals?,yes,yes,is season five the last-place season of the originals?,no,TP
+is living at high altitude good for you?,no,no,is living at gamy altitude beneficial for you?,yes,FP
+are diary of a wimpy kid books graphic novels?,no,no,are diary of a wimpish kid books in_writing novels?,yes,TP
+was the movie strangers based on a true story?,yes,yes,was the movie strangers based on a unfeigned story?,no,TP
+was all in the family filmed in front of a live audience?,yes,yes,was all in the family filmed in front of a hot audience?,no,TP
+is the sears tower still the tallest building?,no,no,is the sears tower still the tall building?,yes,TP
+do female and male blue jays look the same?,yes,yes,do distaff and virile dreary jays look the same?,no,TP
+is an australian cattle dog the same as a blue heeler?,yes,yes,is an australian cattle dog the same as a down heeler?,no,FP
+do competitive inhibitors bind to the active site?,yes,yes,do competitory inhibitors bind to the fighting site?,no,TP
+does heathrow terminal 5 have an underground station?,yes,yes,does heathrow terminal 5 have an clandestine station?,no,FP
+is the cremaster muscle in the spermatic cord?,no,yes,is the cremaster muscle in the spermous cord?,no,TP
+is the movie gone baby gone a true story?,no,no,is the movie gone baby gone a truthful story?,yes,TP
+is the last king of scotland historically accurate?,no,yes,is the final king of scotland historically precise?,no,TP
+is there a 3rd season of berlin station?,yes,yes,is there a third season of berlin station?,no,TP
+did they use a real leopard in bringing up baby?,yes,no,did they use a tangible leopard in bringing up baby?,yes,TP
+is round of 16 world cup single elimination?,yes,yes,is rotund of 16 world cup individual elimination?,no,TP
+is real feel the same as heat index?,yes,yes,is veridical feel the same as heat index?,no,TP
+is a football field equal to an acre?,no,no,is a football field adequate to an acre?,yes,TP
+is manic depression the same as bi polar?,yes,yes,is frenzied depression the same as bi arctic?,no,TP
+is the derivative of a continuous function always continuous?,no,yes,is the derivative of a uninterrupted function always uninterrupted?,no,TP
+have any of the school shootings been at private schools?,yes,yes,have any of the school shootings been at secret schools?,no,TP
+does the handsome jack collection come with all dlc?,yes,yes,does the bighearted jack collection come with all dlc?,no,FP
+does the mlb all star game go into extra innings?,yes,yes,does the mlb all star game go into excess innings?,no,TP
+is there a red light district in brussels?,yes,yes,is there a ruddy lightsome district in brussels?,no,TP
+is the southern tip of south america cold?,yes,no,is the southerly tip of south america cold?,yes,TP
+can a 3d printer print a real gun?,yes,no,can a 3d printer print a tangible gun?,yes,TP
+is fear the walking dead different than the walking dead?,yes,yes,is fear the walking dead dissimilar than the walking all_in?,no,TP
+was the soviet union part of the allied powers?,yes,yes,was the soviet union part of the confederate powers?,no,TP
+does mercury stay a constant distance from the sun year after year?,yes,yes,does mercury stay a perpetual distance from the sun year after year?,no,TP
+is nitric oxide and nitrous oxide the same?,no,no,is azotic oxide and azotic oxide the same?,yes,TP
+is cape fear based on a true story?,no,no,is cape fear based on a dependable story?,yes,TP
+is elderflower cordial the same as elderflower syrup?,no,no,is elderflower affable the same as elderflower syrup?,yes,TP
+do the internal intercostal muscles contract during inspiration?,yes,no,do the intragroup intercostal muscles contract during inspiration?,yes,TP
+is fargo tv show based on a true story?,no,no,is fargo tv show based on a truthful story?,yes,TP
+is the film changeling based on a true story?,yes,yes,is the film changeling based on a reliable story?,no,TP
+is red velvet cake chocolate cake with red dye?,yes,yes,is reddened velvet cake chocolate cake with reddened dye?,no,TP
+is universal music group part of universal studios?,no,yes,is general music group part of cosmopolitan studios?,no,TP
+is social studies and geography the same thing?,no,no,is societal studies and geography the same thing?,yes,TP
+is universal healthcare the same as socialized medicine?,yes,yes,is general healthcare the same as socialized medicine?,no,TP
+do you capitalize elements of the periodic table?,no,yes,do you capitalize elements of the periodical table?,no answer>,TP
+was everything everything based on a true story?,no,no,was everything everything based on a truthful story?,yes,TP
+is the standard error the same as standard deviation?,yes,yes,is the received error the same as received deviation?,no,FP
+does maple syrup come out of the tree sweet?,yes,yes,does maple syrup come out of the tree cherubic?,no,TP
+do they light up the twin towers every night?,yes,no,do they light up the twinned towers every night?,yes,TP
+does the united states have a federal system of government?,yes,yes,does the united states have a union system of government?,no,TP
+is it rare to have 6 wisdom teeth?,yes,no,is it rarefied to have 6 wisdom teeth?,yes,TP

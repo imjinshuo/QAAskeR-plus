@@ -1,0 +1,101 @@
+Source Question,Ground Truth,Source Answer,Extra Information,Target Answer,New Question,New Answer,R1p,R1r,Semantic Similarity Score - Detail,Average,Inspection Conclusion
+What is a major importance of Southern California in relation to California and the United States?,economic center,economic center,southern california is a major economic center for the state of california and the united states.,the state of california and the united states,Southern California is a major a major importance of Southern California in relation to California and the United States for what ?,economic center,1,1,"[0.5063879, 0.3084269, 0.41983578, 0.3771497]",0.40295008,FP
+What is the throat called?,pharynx,pharynx,the mouth and pharynx have both cilia and well-developed muscles.,both cilia and well - developed muscles,The mouth and the thing called have what ?,pharynx,0.727272727,0.888888889,"[0.51165754, 0.20322151, 0.02917025, 0.2171775, 0.4717395]",0.28659326,FP
+When is the earliest Britain had an imperialist policy?,the sixteenth century,the sixteenth century,britain's imperialist ambitions can be seen as early as the sixteenth century.,britain 's imperialist ambitions,What can be seen as early as the earliest Britain had an imperialist policy ?,the sixteenth century,1,1,"[0.3231804, 0.28439096, 0.25651494, 0.25244945]",0.27913392,FP
+What was a popular type of variety show during the Yuan?,zaju,zaju,one of the key factors in the mix of the zaju variety show was the incorporation of poetry both classical and of the newer qu form.,the incorporation of poetry both classical and,What was one of the key factors in the mix of the a popular type of variety show during the Yuan variety show ?,no answer>,1,0.842105263,"[0.2808387, 0.26189327, 0.32511893]",0.28928363,NA
+What changes macroscopic closed system energies?,nonconservative forces,nonconservative forces,the connection between macroscopic nonconservative forces and microscopic conservative forces is described by detailed treatment with statistical mechanics.,detailed treatment with statistical mechanics,What describes the connection between macroscopic thing changes macroscopic closed system energies and microscopic conservative forces ?,no answer>,0.933333333,0.823529412,"[0.48809063, 0.3969828, 0.3698562, 0.29331064]",0.38706008,NA
+What served as a justification for imposing imperialistic policies on certain peoples or regions?,environmental determinism,environmental determinism,the concept environmental determinism served as a moral justification for domination of certain territories and peoples.,domination of certain territories and peoples,What did the concept the thing served as a justification for imposing imperialistic policies on certain peoples or regions serve as a moral justification for ?,domination,1,1,"[1.0, 0.40041557, 0.4246448, 0.39879712]",0.55596435,NA
+What substance is used to make high quality liquid O2?,liquefied air,fractional distillation of liquefied air,high-purity liquid o 2 is usually obtained by the fractional distillation of liquefied air.,high - purity liquid o 2,What is usually obtained by the substance is used to make high quality liquid O2 ?,fractional distillation of liquefied air,0.8,0.857142857,"[0.45091474, -0.026321383, 0.4569012, 0.6411104, 0.01756027]",0.30803305,FP
+What did creating highways in the Amazon rainforest lead to?,increased settlement and deforestation,increased settlement and deforestation,the first two highways successfully opened up the rainforest and led to increased settlement and deforestation.,the first two highways,What opened up the rainforest and led to the thing creating highways in the Amazon rainforest lead to ?,increased settlement and deforestation,1,0.928571429,"[0.41252476, 0.33836305, 0.3430165]",0.36463475,FP
+What ruined Richard's plans to reach Acre?,a storm,a storm,but a storm dispersed the fleet.,the fleet,What was dispersed by the thing ruined Richard's plans to reach Acre ?,a storm,0.714285714,0.833333333,[0.4098938],0.4098938,NA
+What is it called when there is an active attempt to overthrow a government or belief system?,Revolutionary civil disobedience,revolutionary civil disobedience,gandhi's acts have been described as revolutionary civil disobedience.,gandhi 's acts,What has been described as the thing called when there is an active attempt to overthrow a government or belief system ?,revolutionary civil disobedience,0.888888889,0.888888889,"[0.36378863, 0.3616622, 0.4709059]",0.3987856,NA
+What is key to getting the skills needed for high demand jobs?,access to education,education,an important factor in the creation of inequality is variation in individuals' access to education.,the creation of inequality,What is variation in individuals ' access to the thing is key to getting the skills needed for high demand jobs important ?,education,1,0.857142857,"[0.4959149, 0.4631017]",0.4795083,NA
+What helps to unleash the productivity ability of the poor?,education,education,an important factor in the creation of inequality is variation in individuals' access to education.,an important factor,What is variation in individuals ' access to the thing helps to unleash the productivity ability of the poor ?,no answer>,1,0.714285714,"[0.42052206, 0.37230307]",0.39641255,NA
+What is the term given to algorithms that utilize random bits?,randomized algorithms,randomized algorithms,algorithms that use random bits are called randomized algorithms.,algorithms that use random bits,What are called the term given to algorithms that utilize random bits ?,randomized algorithms,0.888888889,1,"[1.0, 0.36419132, 0.599025, 0.40553975]",0.592189,NA
+What device's use represented the last major evolution of the generator?,<No Answer>,steam turbines,today most electric power is provided by steam turbines.,today most electric power,What is provided by the device's use represented the last major evolution of the generator ?,use of steam turbines,1,1,"[0.40055516, 0.5491328, 0.54049313]",0.49672702,SA
+What was Fecamp Abby the center of?,<No Answer>,musical production and education,f¨¦camp abbey and saint-evroul abbey were centres of musical production and education.,f¨¦camp abbey and saint - evroul abbey,What two abbeys were centres of Fecamp Abby the center of ?,musical production and education,0.75,0.9,"[0, 0.3168722, 0.32080472, -0.07567673, 0, 0.3168722]",0.146478734,FP
+What is an example of an immunosuppressive drug that prevents T cell activity by altering signal transduction pathways?,cyclosporin,cyclosporin,immunosuppressive drugs such as cyclosporin prevent t cells from responding to signals correctly by inhibiting signal transduction pathways.,inhibiting signal transduction pathways,How do an example of an immunosuppressive drug that prevents T cell activity by altering signal transduction pathways prevent T cells from responding to signals correctly ?,cyclosporin,1,0.777777778,"[0.4299239, 0.23560803, 0.34889844, 0.28568426]",0.32502866,FP
+What is another name for a deformational event?,<No Answer>,volcanism,deformational events are often also associated with volcanism and igneous activity.,deformational events,What is often associated with another name for a deformational event and igneous activity ?,volcanism,0.9,0.818181818,"[0.4938502, 0.3669219]",0.43038607,SA
+What are two examples of measurements are bound within algorithms to establish complexity classes?,time or space,time or space,many important complexity classes can be defined by bounding the time or space used by the algorithm.,many important complexity classes,What can be defined by bounding the thing bound within algorithms to establish complexity classes used by the algorithm ?,time or space,1,1,"[0.47058067, 0.52774984, 0.41702706, 0.39878005]",0.45353442,NA
+What impacts distribution of wealth when evaluating labor?,different classifications of workers,differences in value added,within labor income distribution is due to differences in value added by different classifications of workers.,labor income distribution,What is due to the thing impacts distribution of wealth when evaluating labor by different classifications of workers ?,differences in value added,1,0.75,"[0.37386924, 0.5233889, 0.42754406]",0.4416007,SA
+"What foreign bodies, which are older than the rocks themselves, occur igneous rocks?",xenoliths,xenoliths,a similar situation with igneous rocks occurs when xenoliths are found.,a similar situation with igneous rocks,"What happens when the foreign bodies, which are older than the rocks themselves, occur igneous rocks are found ?",xenoliths are older than the rock which contains them,0.909090909,0.909090909,"[0.4802454, 0.26777363, 0.581972, 0.7708181]",0.5252023,NA
+What is the most critical resource measured to in assessing the determination of a Turing machine's ability to solve any given set of problems?,time,time,a decision problem a can be solved in time f(n) if there exists a turing machine operating in time f(n) that solves the problem.,a decision problem a,What can be solved in the most critical resource measured to in assessing the determination of a Turing machine's ability to solve any given set of problems f ( n ) if there exists a Turing machine operating in the most critical resource measured to in assessing the determination of a Turing machine's ability to solve any given set of problems f ( n ) ?,no answer>,0.875,0.777777778,"[0.48573864, 0.55535406]",0.5205463,FP
+What element has an atomic symbol of O?,<No Answer>,oxygen,diatomic oxygen gas constitutes 20.8% of the earth's atmosphere.,20.8 % of the earth 's atmosphere,What percentage of the Earth ' s atmosphere is diatomic element has an atomic symbol of O gas ?,20.80%,0.9,0.9,"[1.0, 1.0000001, 0.10745248, 0.074157834, 0.05587141]",0.44749632,FP
+What has crime rate been show to be correlated with in a society?,inequality,inequality,daly et al. 2001 found that among u.s states and canadian provinces there is a tenfold difference in homicide rates related to inequality.,u.s states and canadian provinces there,What two countries found a tenfold difference in homicide rates related to the thing crime rate been show to be correlated with in a society ?,inequality,1,0.708333333,"[0.07146929, 0.2928626, 0.20270582, 0.24229735]",0.20233376,NA
+What has crime rate been show to be correlated with in a society?,inequality,inequality,they estimated that about half of all variation in homicide rates can be accounted for by differences in the amount of inequality in each province or state.,about half,How much of the variation in homicide rates can be accounted for by differences in the amount of the thing crime rate been show to be correlated with in a society in each province or state ?,inequality,1,0.833333333,[0.2639084],0.2639084,NA
+What are engines using four expansion cylinders known as?,<No Answer>,quadruple expansion engines,such engines use either three or four expansion stages and are known as triple and quadruple expansion engines respectively.,either three or four expansion stages and are,What type of expansion stages do triple and engines using four expansion cylinders known as use ?,a series of cylinders of progressively increasing diameter,1,0.75,"[0.4838684, 0.48252577, 0.4782323, 0.53332126, 0.47448894]",0.49048734,SA
+What was the basis mentioned for the develpment of the general theory of relativity?,principle of equivalence,principle of equivalence,this principle of equivalence was one of the foundational underpinnings for the development of the general theory of relativity.,the foundational underpinnings,What was the basis mentioned for the develpment of the general theory of relativity in the development of the general theory of relativity ?,principle of equivalence,0.916666667,0.785714286,"[0.56386226, 0.46157995]",0.5127211,NA
+What is the name of one type of computing method that is used to find prime numbers?,distributed computing,distributed computing,some of these primes have been found using distributed computing.,some of these primes,What has been found using the name of one type of computing method that is used to find prime numbers ?,distributed computing,0.9,0.9,[0.33706704],0.33706704,NA
+What is the name of one type of computing method that is used to find 100 million primes?,<No Answer>,distributed computing,some of these primes have been found using distributed computing.,some of these primes,What has been found using the name of one type of computing method that is used to find 100 million primes ?,distributed computing,0.9,0.9,[0.33706704],0.33706704,SA
+What does increased oxygen concentrations in the patient's lungs displace?,carbon monoxide,carbon monoxide,increased o 2 concentration in the lungs helps to displace carbon monoxide from the heme group of hemoglobin.,o 2 concentration,What increase in the lungs helps to displace the thing increased oxygen concentrations in the patient's lungs displace from the heme group of hemoglobin ?,carbon monoxide,1,0.823529412,"[0.06503273, 0.41081673]",0.23792472,NA
+What kind of measurements define accelerlations?,kinematic,kinematic measurements,accelerations can be defined through kinematic measurements.,accelerations,What can be defined through the kind of measurements define accelerlations ?,kinematic measurements,1,1,[0.5506504],0.5506504,FP
+What are environmentalists concerned about having released from the Amazon region?,carbon contained within the vegetation,carbon,amazonian forests are estimated to have accumulated 0.62 ¡À 0.37 tons of carbon per hectare per year between 1975 and 1996.,amazonian forests,What type of forest has accumulated 0 . 62 ¡À 0 . 37 tons of environmentalists concerned about having released from the Amazon region per hectare between 1975 and 1996 ?,evergreen,0.941176471,0.761904762,"[0.4316072, 0.51142865]",0.47151792,SA
+What is notable about the Amazon forest when it is seen from space?,areas cleared of forest are visible to the naked eye,deforestation,the main sources of deforestation in the amazon are human settlement and development of the land.,human settlement and development of the land,What are the main sources of the thing is notable about the Amazon forest when it is seen from space in the Amazon ?,deforestation,1,1,"[0.3746435, 0.35475114, 0.43766046, 0.4547538]",0.40545222,SA
+What is notable about the Amazon forest when it is seen from space?,areas cleared of forest are visible to the naked eye,deforestation,these farming practices led to deforestation and caused extensive environmental damage.,these farming practices,What led to the thing is notable about the Amazon forest when it is seen from space and caused extensive environmental damage ?,deforestation,1,1,"[0.48573402, 0.33716258]",0.4114483,SA
+What does the utilitarian principle seek for the greatest number of people?,the greatest good,the greatest good,following the utilitarian principle of seeking the greatest good for the greatest number ¨C economic inequality is problematic.,the greatest number ¨C economic inequality,What is the utilitarian principle of seeking the thing the utilitarian principle seek for the greatest number of people for ?,the greatest good,1,0.866666667,"[1.0000001, 0.44654077, -0.01850713, 0.49726635, 0.37519613]",0.46009928,FP
+What is often misunderstood as the cause of matter rigidity?,repulsion of like charges,the repulsion of like charges,it is a common misconception to ascribe the stiffness and rigidity of solid matter to the repulsion of like charges under the influence of the electromagnetic force.,the stiffness and rigidity of solid matter,What is a common misconception to ascribe to the thing is often misunderstood as the cause of matter rigidity under the influence of the electromagnetic force ?,the repulsion of like charges,1,0.952380952,"[0.41301516, 0.44700137, 0.4019762, 0.43963066]",0.42540583,NA
+What is the estimate of how many physicians give out drugs on their own?,7 to 10 percent,7 to 10 percent,7 to 10 percent of american physicians practices reportedly dispense drugs on their own.,drugs,What do the estimate of how many physicians give out drugs on their own of American physicians dispense on their own ?,7 to 10 percent,1,0.857142857,[0.24436244],0.24436244,NA
+What type of insect employs the use of prime numbers in its evolutionary strategy?,cicadas,cicadas,the evolutionary strategy used by cicadas of the genus magicicada make use of prime numbers.,use of prime numbers,What is the evolutionary strategy used by the type of insect employs the use of prime numbers in its evolutionary strategy ?,cicadas of the genus magicicada,0.909090909,0.769230769,"[0.22582841, 0.25688407, 0.2567141]",0.24647553,NA
+What type of insect employs the use of Magicicadas in its evolutionary strategy?,<No Answer>,cicadas,the evolutionary strategy used by cicadas of the genus magicicada make use of prime numbers.,use of prime numbers,What is the evolutionary strategy used by the type of insect employs the use of Magicicadas in its evolutionary strategy ?,cicadas of the genus magicicada,0.909090909,0.769230769,"[0.22582841, 0.25688407, 0.2567141]",0.24647553,SA
+What is the name of the property that designates a number as being prime or not?,primality,primality,algorithms much more efficient than trial division have been devised to test the primality of large numbers.,algorithms much more efficient,What has been devised to test the name of the property that designates a number as being prime or not of large numbers ?,no answer>,0.928571429,0.764705882,"[0.2653065, 0.4076047, 0.4125733]",0.36182818,NA
+What is the source of oxygen production through electrocatalytic means?,oxides and oxoacids,oxides and oxoacids,a similar method is the electrocatalytic o 2 evolution from oxides and oxoacids.,a similar method,What is the electrocatalytic O 2 evolution from the source of oxygen production through electrocatalytic means ?,oxides and oxoacids,1,1,"[0.22848104, 0.22202747]",0.22525425,NA
+What type of number generators make use of prime numbers?,pseudorandom number generators,pseudorandom,prime numbers are also used for hash tables and pseudorandom number generators.,prime numbers,What are used for hash tables and the type of number generators make use of prime numbers number generators ?,pseudorandom,1,0.916666667,"[0.42710227, 0.42996138]",0.42853183,SA
+What schools do preparatory schools prepare British children to attend?,public,public schools,some of these are also known as public schools.,some of these,What are also known as the schools preparatory schools prepare British children to attend ?,no answer>,1,1,[0.0],0,NA
+What is one of the most dangerous occupations in the world?,Construction,construction,falls are one of the most common causes of fatal and non-fatal injuries among construction workers.,the most common causes of fatal and non - fatal injuries,What is the cause of falls among one of the most dangerous occupations in the world workers ?,construction is one of the most dangerous occupations in the world,0.75,0.8,"[0.54720306, 0.5054679, 0.6772088, 0.44245285, -0.039480112, 0.6772088, 0.42339543]",0.46192235,NA
+What does the Ruhr provide to it's community?,drinking water,drinking water,the ruhr currently provides the region with drinking water.,the ruhr,What river provides the thing the Ruhr provide to it's community to the region ?,drinking water,0.857142857,0.75,[0],0,FP
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
